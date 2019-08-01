@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 package ADMIN;
-
-//import static connection.sqlconnection.connect;
 import MAIN.Views;
-//import com.mysql.cj.protocol.Resultset;
 import java.awt.Color;
 import java.sql.*;
 import java.util.Arrays;
